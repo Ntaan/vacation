@@ -1,0 +1,60 @@
+.page__title {
+  font-family: "Red Hat", "Arial", sans-serif;
+  font-size: 4rem;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 5.3rem;
+  color: #F2785C;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0;
+}
+
+
+
+.stories {
+  padding-bottom: 45px;
+  background-color: rgba(255, 255, 255, 0.7);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.sight__list {
+  margin: 0;
+  padding: 38px 0 10px;
+  list-style: none;
+}
+
+
+
+
+.sight__item {
+  display: flex;
+}
+
+.sight__photo {
+  width: 400px;
+  height: 100%;
+  box-shadow: 0px 4px 4px #0D606F;
+  border-radius: 16px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+}
+
+.sight__title {
+  font-size: 3.5rem;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 4.2rem;
+  margin: 0;
+  margin-bottom: 24px;
+}
+
+
+.sight__text {
+  margin-bottom: 20px;
+}
+
+
