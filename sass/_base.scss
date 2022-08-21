@@ -52,3 +52,9 @@ html {
     max-width: 1200px;
     margin: auto;
   }
+
+  @media (max-width: 1024px) {
+    .wrapper {
+    max-width: 920px;
+  }
+}

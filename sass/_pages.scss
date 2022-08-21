@@ -23,6 +23,13 @@
   padding: 20px 40px;
 }
 
+@media (max-width: 1024px) {
+  .header__link {
+    padding: 20px 30px;
+  }
+}
+
+
 .header__link:hover {
   text-decoration: underline;
 }
